@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="footer-icon">
           <div className="footer-icon-title">Follow Us</div>
           <div className="footer-i">
-            <a style={{ color: "white" }} href="https://github.com/mohsak13">
+            <a style={{ color: "white" }} href="https://github.com/mohsak123">
               <i class="bi bi-github"></i>
             </a>
             <a
